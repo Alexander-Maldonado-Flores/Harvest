@@ -1,1 +1,1 @@
-# Harvest Backend Configuration
+# Harvest Backend Entry Point
